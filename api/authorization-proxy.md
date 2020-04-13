@@ -15,9 +15,9 @@ The Authorization Proxy handles:
 - managing of OAuth2 login & logout redirections
 - exchanging of OAuth2 code for Access and Refresh token
 - refreshing of Access token based on Access token TTL
-- manaing client id & certificate to SDF
+- managing client id & certificate to SDF
 - creating of authenticated and unauthenticated session
-- aliging session id across applications
+- aligning session id across applications
 - provinding an easy way to register and deployment of APIs
 
 ## How
